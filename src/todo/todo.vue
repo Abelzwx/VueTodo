@@ -3,7 +3,7 @@
         <input type="text"
             class="add-input"
             autofocus="autofocus"
-            placeholder="请输入任务"
+            placeholder="请输入任务内容"
             @keyup.enter="addTodo"
         >
 
